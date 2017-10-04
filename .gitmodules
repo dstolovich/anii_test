@@ -1,0 +1,4 @@
+[submodule "oca/web"]
+	path = oca/web
+	url = git@github.com:oca/web.git
+	branch = 10.0
