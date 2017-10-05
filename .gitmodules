@@ -2,3 +2,8 @@
 	path = oca/web
 	url = git@github.com:oca/web.git
 	branch = 10.0
+
+[submodule "dstolovich/anii_test"]
+	path = dstolovich/anii_test
+	url = git@github.com:dstolovich/anii_test.git
+	branch = master
